@@ -1,7 +1,6 @@
-/* *{
-    margin: 0;
-    padding: 0;
-} */
+*{
+    line-height: 150%;
+}
 
 body {
     background-color: #efeee7;
@@ -15,10 +14,6 @@ header {
     background-color: #333333;
     margin: 0;
     padding: 0;
-}
-
-div {
-    line-height: 150%;
 }
 
 h1 {
